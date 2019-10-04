@@ -1,0 +1,129 @@
+#a{
+	color:red;
+	text-align:center;
+}
+body{
+	background-color:#336688;
+	
+}
+hr{
+	color:yellow;
+	margin-top:0px;
+}
+.hr1{
+	color:red;
+}
+.first{
+	background-color:green;
+	position:absolute;
+	left:10px;
+	height:100%
+}
+.second{
+	margin-top:-13px;
+	margin-left:200px;
+	height:338px;
+	background-color:#56864d;
+}
+a{
+	color:black;
+}
+a:hover{
+	color:orange;
+}
+#a2{
+	color:pink;
+	text-align:center;
+}
+#hsecond{
+	text-align:center;
+	color:#dedd4d
+}
+#hrsecond{
+	color:#dedd4d;
+}
+.parag{
+	font-family:'Roboto', sans-serif;
+	font-size:30px;
+}
+#paragcss{
+	text-align:center;
+	font-size:30px;
+}
+#css{
+	color:#de76bc;
+	
+}
+#css:hover{
+	color:#2febf5;
+}
+.second2{
+	background-color:#56864d;
+}
+#img{
+	margin-left:58px;
+}
+#tab{
+	border:solid;
+	border-color:red;
+	position:relative;
+	left:680px;
+	top:50px;
+	background-color:blue;
+	
+}
+.tabc{
+	color:yellow;
+}
+.tabc:hover{
+	color:orange;
+}
+#nextlink{
+	color:#de76bc;
+}
+#nextlink:hover{
+	color:#2febf5;
+}
+#nextpar{
+	text-align:center;
+	font-size:30px;	
+}
+.second3{
+	position:fixed;
+	top:0px;
+	background-color:yellow;
+	text-align:center;
+	font-weight:800;
+	width:30%;
+	height:60px;
+}
+#b{
+	text-align:center;
+	background-color:white;
+	border:2px;
+	font-family: 'Varela Round', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+#b:hover{
+	background-color:lightpink;
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+}
+.father{
+	width:400px;
+	height:800px;
+	position:relative;
+	left:500px;
+}
+.child{
+	width:300px;
+	position:absolute;
+	top:60px;
+	font-weight:600;
+	font-size:25px;
+}
