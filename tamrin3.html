@@ -1,0 +1,32 @@
+<html>
+<body>
+   <script>
+     let op=prompt(':عملگر مورد نظر را وارد کنید','+');
+	 let a=prompt(':عملوند اول را وارد کنید ');
+     let b=prompt(':عملوند دوم را وارد کنید ');
+	 a=Number(a);
+	 b=Number(b);
+	 if(op=="+"){
+	   alert(a+b);
+	 }
+	 if(op=="-"){
+	   alert(a-b);
+	 }
+	 if(op=="*"){
+	   alert(a*b);
+	 }
+	 if(op=="/"){
+	   alert(a/b);
+	 }
+	 if(op=="^"){
+	   let c=1;
+	   while(b>0){
+	     c=c*a;
+		 b--;
+	   }
+	   alert(c);
+	 }	 
+   </script>
+
+</body>
+</html>
